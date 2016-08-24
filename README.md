@@ -3,6 +3,7 @@ ShapeDigger is calculation tool based on monte-carlo method for unspecific shape
 
 # Theoretical background
 Estimating the area of a shape using the hit/miss method.
+
 ![Monte-carlo Method](https://raw.githubusercontent.com/gnh1201/shapedigger/master/montecarlo2.png)
 
 # Contact us
